@@ -1,16 +1,18 @@
-### Hi there 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<!--
-**Iohanf/iohanf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> 
+  Olá,<br>Me chamo Iohan Barbiere e sou um <strong>Estagiário DEV</strong>.<br>
+  Estou no primeiro semestre de <strong>Analise e Desenvolvimento de Sistemas</strong> e trabalhando na <strong>SHARMAQ sistemas</strong> onde faço literalmente de tudo um pouco.
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+  🦄 Linguagens/Tecnologias: <strong>HTML, CSS (Bootstrap 4), Javascript.</strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  💼 Ferramentas: <strong>VSCode,Git.</strong>
+</p>
+
+<p align="left">
+  📖 Estudando: <strong>Javascript.</strong>
+</p>
