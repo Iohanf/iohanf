@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens/Tecnologias: <strong>HTML, CSS (Bootstrap 4), Javascript.</strong>
+   Linguagens/Tecnologias: <strong>HTML, CSS (Bootstrap 4), Javascript.</strong>
 </p>
 
 <p align="left">
