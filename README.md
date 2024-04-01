@@ -6,13 +6,13 @@
 </p>
 
 <p align="left">
-   Linguagens/Tecnologias: <strong>HTML, CSS (Bootstrap 5), Javascript.</strong>
+   Linguagens/Tecnologias: <strong>HTML, CSS (Bootstrap 5), Javascript, FlutterFlow</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCode,Git.</strong>
+  💼 Ferramentas: <strong>VSCode,Git, FlutterFlow.</strong>
 </p>
 
 <p align="left">
-  📖 Estudando: <strong>Javascript.</strong>
+  📖 Estudando: <strong>Javascript,Flutter</strong>
 </p>
