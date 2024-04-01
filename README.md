@@ -14,5 +14,5 @@
 </p>
 
 <p align="left">
-  📖 Estudando: <strong>Javascript,Flutter</strong>
+  📖 Estudando: <strong>Javascript, Flutter</strong>
 </p>
